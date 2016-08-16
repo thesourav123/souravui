@@ -13,7 +13,7 @@
         Test application with SAPUI5 and Phonegap
     </description>
     
-    <preference name="phonegap-version" value="2.0.0" />
+    <preference name="phonegap-version" value="cli-6.3.0" />
     <feature name="http://api.phonegap.com/1.0/camera"/>
     <feature name="http://api.phonegap.com/1.0/file"/>     
     <feature name="http://api.phonegap.com/1.0/geolocation"/> 
